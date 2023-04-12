@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		<string name="app_name">Encrypt0</string>
+		<string name="top_message">\n&#8226; Use a Key at least <b>16 characters</b> long\n\n&#8226; <b>Note:</b> If no output is displayed, check for errors in your <i>Message</i> or <i>Key</i>\n\n</string>
+</resources>
